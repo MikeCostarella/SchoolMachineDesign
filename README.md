@@ -10,9 +10,28 @@ The goal of this project is not create a fully functional web and mobile enabled
 
 # Client UI Anatomy
 
-## App Component
+The School-Machine client application will be implemented in multiple web development technology frameworks.  Currently, there are three technologies under study:
+
+  | Framework  |  Repository | Version  | Status  |   |
+|---|---|---|---|---|
+|  Angular |  SchoolMachineUIAngular | 7  |  In Development |   |
+|  React | schoolmachineuireact  |   | Very Rough Start  |   |
+|  MVC/Razor |  na |  .net core 2.2 | Not Started  |   |
+  
+
+## App Module
+
+The App module contains the menu component and the router.
 
 ## Child Components
+
+### Menu
+
+![menu-1](MockUp/Components/Menu/SchoolMachine_Menu_0001.png)
+
+### Home
+
+![app-1](MockUp/Components/Home/SchoolMachine_Home_0001.png)
 
 ### School
 
