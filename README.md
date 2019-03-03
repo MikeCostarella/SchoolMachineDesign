@@ -8,7 +8,7 @@ The goal of this project is not create a fully functional web and mobile enabled
 
 ![school-list-1](Architecture/Application/ApplicationComponents_00001.png)
 
-# UI Anatomy
+# Client UI Anatomy
 
 ## App Component
 
