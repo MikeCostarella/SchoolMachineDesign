@@ -18,7 +18,7 @@ The goal of this project is not create a fully functional web and mobile enabled
 
 * school-list
 
-![school-list-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/627f365cd4c567af36546851a733019f1e314774/MockUp/Components/School/school-create/SchoolMachine_school-create_0001.png)
+![school-list-1](https://github.com/MikeCostarella/SchoolMachineDesign/master/MockUp/Components/School/school-create/SchoolMachine_school-create_0001.png)
 
 * school-create
 * school-delete
