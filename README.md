@@ -40,20 +40,20 @@ The goal of this project is not create a fully functional web and mobile enabled
 
 * student-list
 
-![student-list-1]()
+![student-list-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/Student/student-list/SchoolMachine_student-list_0001.png)
 
 * student-create
 
-![student-create-1]()
+![student-create-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/Student/student-create/SchoolMachine_student-create_0001.png)
 
 * student-delete
 
-![student-delete-1]()
+![student-delete-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/Student/student-delete/SchoolMachine_student-delete_0001.png)
 
 * student-details
 
-![student-details-1]()
+![student-details-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/Student/student-details/SchoolMachine_student-details_0001.png)
 
 * student-update
 
-![student-update-1]()
+![student-update-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/Student/student-update/SchoolMachine_student-update_0001.png)
