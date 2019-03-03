@@ -4,9 +4,9 @@ School machine has a number of architectural components, each of which are small
 
 The goal of this project is not create a fully functional web and mobile enabled application, but to identify the architectural components and patterns necessary to create a minimally viable product.
 
-# Product Architectural Components
+# Application Architectural Components
 
-
+![school-list-1](Architecture/Application/ApplicationComponents_00001.png)
 
 # UI Anatomy
 
