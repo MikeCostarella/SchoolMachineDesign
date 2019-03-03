@@ -21,15 +21,39 @@ The goal of this project is not create a fully functional web and mobile enabled
 ![school-list-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/677e1670feb639e6e306e8789040e78c8fefabfc/MockUp/Components/School/school-list/SchoolMachine_school-list_0001.png)
 
 * school-create
+
+![school-create-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/School/school-create/SchoolMachine_school-create_0001.png)
+
 * school-delete
+
+![school-delete-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/School/school-delete/SchoolMachine_school-delete_0001.png)
+
 * school-details
+
+![school-details-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/School/school-details/SchoolMachine_school-details_0001.png)
+
 * school-update
+
+![school-update-1](https://github.com/MikeCostarella/SchoolMachineDesign/blob/e13d738ad6d1131581e7c68bca6997cc6571eed3/MockUp/Components/School/school-update/SchoolMachine_school-update_0001.png)
 
 ### Student
 
 * student-list
+
+![student-list-1]()
+
 * student-create
+
+![student-create-1]()
+
 * student-delete
+
+![student-delete-1]()
+
 * student-details
+
+![student-details-1]()
+
 * student-update
 
+![student-update-1]()
