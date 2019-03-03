@@ -8,7 +8,14 @@ The goal of this project is not create a fully functional web and mobile enabled
 
 ![school-list-1](Architecture/Application/ApplicationComponents_00001.png)
 
-# Client UI Anatomy
+* School-Machine Client
+* Authentication & Authorization Service
+* School Service
+* Student Service
+* SchoolStudent Service
+* Database
+
+# School-Machine Client Anatomy
 
 The School-Machine client application will be implemented in multiple web development technology frameworks.  Currently, there are three technologies under study:
 
