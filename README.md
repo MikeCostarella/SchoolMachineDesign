@@ -83,3 +83,11 @@ The App module contains the menu component and the router.
 * student-update
 
 ![student-update-1](MockUp/Components/Student/student-update/SchoolMachine_student-update_0001.png)
+
+# School-Machine Web Services
+
+* Swagger
+
+![Swagger-1](Architecture/Application/Services/SchoolMachine_SwaggerServices_0001.png)
+
+![Swagger-2](Architecture/Application/Services/SchoolMachine_SwaggerServices_0002.png)
