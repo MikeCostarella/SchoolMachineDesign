@@ -14,6 +14,8 @@ The goal of this project is not create a fully functional web and mobile enabled
 
 * School-Machine Client
 * Authentication & Authorization Service
+* District Service
+* DistrictSchool Service
 * School Service
 * Student Service
 * SchoolStudent Service
