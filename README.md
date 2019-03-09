@@ -4,7 +4,7 @@ School machine has a number of architectural components, each of which are small
 
 The goal of this project is not create a fully functional web and mobile enabled application, but to identify the architectural components and patterns necessary to create a minimally viable product.
 
-# School Machine School Data Entity Model
+# SchoolMachine SchoolData Entity Model
 
 ![SchoolData-Entity-Model-1](Architecture/SchoolMachineEntityModel_00001.png)
 
