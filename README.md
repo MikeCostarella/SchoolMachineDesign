@@ -49,6 +49,7 @@ The App module contains the menu component and the router.
 ### School
 
 * school-list
+  * now uses angular material data table
 
 ![school-list-1](MockUp/Components/School/school-list/SchoolMachine_school-list_0001.png)
 
