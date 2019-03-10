@@ -46,10 +46,31 @@ The App module contains the menu component and the router.
 
 ![app-1](MockUp/Components/Home/SchoolMachine_Home_0001.png)
 
+### District
+
+* district-list
+
+![district-list-1](MockUp/Components/District/district-list/SchoolMachine_district-list_0001.png)
+
+* district-create
+
+![district-create-1](MockUp/Components/District/district-create/SchoolMachine_district-create_0001.png)
+
+* district-update
+
+![district-update-1](MockUp/Components/District/district-update/SchoolMachine_district-update_0001.png)
+
+* district-delete
+
+![district-delete-1](MockUp/Components/District/district-delete/SchoolMachine_district-delete_0001.png)
+
+* district-details
+
+![district-details](MockUp/Components/District/district-details/SchoolMachine_district-details_0001.png)
+
 ### School
 
 * school-list
-  * now uses angular material data table
 
 ![school-list-1](MockUp/Components/School/school-list/SchoolMachine_school-list_0001.png)
 
@@ -79,13 +100,13 @@ The App module contains the menu component and the router.
 
 ![student-create-1](MockUp/Components/Student/student-create/SchoolMachine_student-create_0001.png)
 
-* student-delete
-
-![student-delete-1](MockUp/Components/Student/student-delete/SchoolMachine_student-delete_0001.png)
-
 * student-details
 
 ![student-details-1](MockUp/Components/Student/student-details/SchoolMachine_student-details_0001.png)
+
+* student-delete
+
+![student-delete-1](MockUp/Components/Student/student-delete/SchoolMachine_student-delete_0001.png)
 
 * student-update
 
